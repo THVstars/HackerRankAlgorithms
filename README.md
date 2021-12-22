@@ -1,0 +1,1 @@
+This is a project with all the HackerRank algorithm solutions I've submitted.
